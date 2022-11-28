@@ -1,0 +1,4 @@
+Bundle-Name: demo-product-renderers
+Bundle-SymbolicName: com.liferay.commerce.demo.render
+Bundle-Version: 1.0.0
+Web-ContextPath: /demo-product-renderers
